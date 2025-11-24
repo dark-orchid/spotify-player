@@ -27,6 +27,7 @@ Centered on the rich Dark Orchid shade, it highlights purple's depth, creativity
 ```toml
 theme = "dark-orchid"
 ```
+4. Enjoy
 
 ## License
 The MIT License (MIT) - Please have a look at the [LICENSE file](./LICENSE) for more details.
